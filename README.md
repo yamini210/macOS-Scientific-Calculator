@@ -1,5 +1,5 @@
 Scientific Calculator
-A fully-featured scientific calculator built with React.
+A fully-featured scientific calculator built with React.<BR>
 This calculator supports various arithmetic and scientific calculations, offers a memory function, and includes a history feature to keep track of past calculations. 
 Additionally, it supports a dark mode and confetti explosion for special calculations.
 
